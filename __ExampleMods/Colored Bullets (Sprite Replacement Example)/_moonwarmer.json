@@ -1,0 +1,15 @@
+{
+    "metadata": 
+    {
+        "name": "Colored Bullets - Moonwarmer Sprite Example Mod",
+        "version": "v1.0",
+        "packageID": "github.coloredbullets.mighty_mr_m"
+    },
+
+    "deltaruneVersion": "1.04",
+    "supportedPackageTypes": [],
+    "deltaruneVariants":
+    [
+        "fullgame"
+    ]
+}

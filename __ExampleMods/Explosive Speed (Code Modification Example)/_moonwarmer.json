@@ -1,0 +1,15 @@
+{
+    "metadata": 
+    {
+        "name": "Explosive Speed - Moonwarmer Code Example Mod",
+        "version": "v1.0",
+        "packageID": "github.explosivespeed.mighty_mr_m"
+    },
+
+    "deltaruneVersion": "1.04",
+    "supportedPackageTypes": [],
+    "deltaruneVariants":
+    [
+        "fullgame"
+    ]
+}

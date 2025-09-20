@@ -1,0 +1,15 @@
+{
+    "metadata": 
+    {
+        "name": "BOARD S. K. per",
+        "version": "v1.0",
+        "packageID": "gamebanana.boardskper.mighty_mr_m"
+    },
+
+    "deltaruneVersion": "1.04",
+    "supportedPackageTypes": [],
+    "deltaruneVariants":
+    [
+        "fullgame"
+    ]
+}
