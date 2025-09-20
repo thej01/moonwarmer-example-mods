@@ -1,0 +1,15 @@
+{
+    "metadata": 
+    {
+        "name": "Squeaky Weapons - Moonwarmer Sound Example Mod",
+        "version": "v1.0",
+        "packageID": "github.squeakyweapons.mighty_mr_m"
+    },
+
+    "deltaruneVersion": "1.04",
+    "supportedPackageTypes": [],
+    "deltaruneVariants":
+    [
+        "fullgame"
+    ]
+}

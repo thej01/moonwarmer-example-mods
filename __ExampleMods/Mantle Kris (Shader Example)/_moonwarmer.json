@@ -1,0 +1,15 @@
+{
+    "metadata": 
+    {
+        "name": "Shader Example Mod",
+        "version": "v1",
+        "packageID": "github.shaderexample.thej01"
+    },
+
+    "deltaruneVersion": "1.04",
+    "supportedPackageTypes": [],
+    "deltaruneVariants":
+    [
+        "fullgame"
+    ]
+}

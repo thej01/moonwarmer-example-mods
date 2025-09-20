@@ -1,0 +1,15 @@
+{
+    "metadata": 
+    {
+        "name": "TV WORLD Plays in Battles",
+        "version": "v4",
+        "packageID": "gamebanana.tvworldbattle.thej01"
+    },
+
+    "deltaruneVersion": "1.04",
+    "supportedPackageTypes": [],
+    "deltaruneVariants":
+    [
+        "fullgame"
+    ]
+}

@@ -1,0 +1,3 @@
+scr_example_if_kris_sprite_use_shader()
+draw_self()
+scr_example_if_kris_sprite_disable_shader()

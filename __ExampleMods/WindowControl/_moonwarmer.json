@@ -1,0 +1,15 @@
+{
+    "metadata": 
+    {
+        "name": "Window Control",
+        "version": "v1",
+        "packageID": "gamebanana.windowcontrol.mrm"
+    },
+
+    "deltaruneVersion": "1.04",
+    "supportedPackageTypes": [],
+    "deltaruneVariants": 
+    [
+        "fullgame"
+    ]
+}
