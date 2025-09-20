@@ -14,7 +14,8 @@ Here is how a Moonwarmer project folder is structured
         Same structure as a chapter(num) folder.
 ```
 
-**It should be noted that for non-lts demo mods, chapter0 and _everychapter are the folders that always get loaded.**
+> [!NOTE]
+> For non-lts demo mods, chapter0 and _everychapter are the folders that always get loaded.
 
 _moonwarmer.json is a crucial file that stores information about your mod. Read about it below.
 
@@ -53,7 +54,9 @@ Let me break it down for you, user.
 
 `metadata` stores all important mod information. It's what makes your mod recognizable.
 This section may be familiar to you if you've made a mod in the DELTAMOD/DELTAHUB format.
-**If your mod is for the DELTAMOD/DELTAHUB format, please, make the `metadata` values the same as in _deltaModInfo.json**
+
+> [!NOTE]
+> If your mod is for the DELTAMOD/DELTAHUB format, please, make the `metadata` values the same as in _deltaModInfo.json
 
 The `name` field is just a visual mod name.
 
@@ -63,7 +66,8 @@ The `version` field is the version of your mod. Increase this everytime you upda
 *`packageID` is a very important field.* It is a *unique* identifier for your mod. It follows this format: `hostedurl.modname.authorname`
 
 Here's how an example would look like: `gamebanana.bettersaves.thej01`
-***Never, NEVER change this value after release.***
+> [!CAUTION]
+> *Never, NEVER change this value after release.*
 
 ## supportedPackageTypes
 **This is an important field!**
@@ -79,7 +83,8 @@ The `supportedPackageTypes` field is the supported mod formats this project is p
 
 The `deltaruneVariants` field are the *supported variants of DELTARUNE the project is made for*.
 
-While it is an *array*, which means it supports several values, *it is recommended for most workflows that this stays at one entry*.
+> [!NOTE]
+> While it is an *array*, which means it supports several values, *it is recommended for most workflows that this stays at one entry*.
 
 ### Supported Values
 - "fullgame"
@@ -94,9 +99,10 @@ What should be inputted here is the version displayed on the game's patchnotes.
 
 For example, `1.04`
 
-*Note: Moonwarmer projects can succesfully load into any version of DELTARUNE (as long as it's the same variant). You don't have to update your mod every time the game does to make it work. This is just a helpful value.*
+*Moonwarmer projects can succesfully load into any version of DELTARUNE (as long as it's the same variant). You don't have to update your mod every time the game does to make it work. This is just a helpful value.*
 
-**(Please make this the same as the DELTAMOD/DELTAHUB deltaruneVersion field if you are making this mod for those.)**
+> [!NOTE]
+> (Please make this the same as the DELTAMOD/DELTAHUB deltaruneVersion field if you are making this mod for those.)
 
 # Okay, but how do I actually *put* files in my project?
 If you've ever used UndertaleModTool's Resource Exporters before, that's essentially how you put all your files in the project. 
