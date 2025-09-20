@@ -1,0 +1,15 @@
+{
+    "metadata": 
+    {
+        "name": "Green Kris (Mod API example)",
+        "version": "v1",
+        "packageID": "github.apiexample.thej01"
+    },
+
+    "deltaruneVersion": "1.04",
+    "supportedPackageTypes": [],
+    "deltaruneVariants":
+    [
+        "fullgame"
+    ]
+}
