@@ -1,0 +1,21 @@
+{
+    "metadata": 
+    {
+        "name": "My Visual Mod Name",
+        "version": "vVersionNumber",
+        "packageID": "hostedurl.modname.authorname"
+    },
+
+    "deltaruneVersion": "1.04",
+    "supportedPackageTypes": 
+    [
+        "DELTAMOD",
+        "DELTAHUB"
+    ],
+    "deltaruneVariants":
+    [
+        "fullgame",
+        "demo",
+        "demo-lts"
+    ]
+}
