@@ -2,7 +2,7 @@
 name: Help with creating Moonwarmer mod
 about: Need help making a Moonwarmer mod? i will assist you :3
 title: "[HELP] "
-labels: ''
+labels: "[HELP]"
 assignees: thej01
 
 ---
