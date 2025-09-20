@@ -14,7 +14,7 @@ Here is how a Moonwarmer project folder is structured
         Same structure as a chapter(num) folder.
 ```
 
-> [!NOTE]
+> [!IMPORTANT]
 > For non-lts demo mods, chapter0 and _everychapter are the folders that always get loaded.
 
 _moonwarmer.json is a crucial file that stores information about your mod. Read about it below.
@@ -55,7 +55,7 @@ Let me break it down for you, user.
 `metadata` stores all important mod information. It's what makes your mod recognizable.
 This section may be familiar to you if you've made a mod in the DELTAMOD/DELTAHUB format.
 
-> [!NOTE]
+> [!IMPORTANT]
 > If your mod is for the DELTAMOD/DELTAHUB format, please, make the `metadata` values the same as in _deltaModInfo.json
 
 The `name` field is just a visual mod name.
@@ -101,8 +101,8 @@ For example, `1.04`
 
 *Moonwarmer projects can succesfully load into any version of DELTARUNE (as long as it's the same variant). You don't have to update your mod every time the game does to make it work. This is just a helpful value.*
 
-> [!NOTE]
-> (Please make this the same as the DELTAMOD/DELTAHUB deltaruneVersion field if you are making this mod for those.)
+> [!IMPORTANT]
+> *Please make this the same as the DELTAMOD/DELTAHUB deltaruneVersion field if you are making this mod for those.*
 
 # Okay, but how do I actually *put* files in my project?
 If you've ever used UndertaleModTool's Resource Exporters before, that's essentially how you put all your files in the project. 
