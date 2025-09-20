@@ -1,0 +1,15 @@
+{
+    "metadata": 
+    {
+        "name": "BetterSaves",
+        "version": "v3",
+        "packageID": "gamebanana.bettersaves.thej01"
+    },
+
+    "deltaruneVersion": "1.04",
+    "supportedPackageTypes": [],
+    "deltaruneVariants":
+    [
+        "fullgame"
+    ]
+}
