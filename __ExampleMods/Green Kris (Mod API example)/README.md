@@ -1,5 +1,6 @@
 # Green Kris
-**NOTE: This mod requires MANTLE KRIS to be installed to work!**
+> [!IMPORTANT]
+>  *This mod requires MANTLE KRIS to be installed to work!*
 
 Modifies variables from *Mantle Kris* to have Kris be green instead!
 
